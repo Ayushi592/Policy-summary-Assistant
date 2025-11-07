@@ -1,0 +1,7 @@
+streamlit
+spacy
+PyMuPDF
+scikit-learn
+python-dotenv
+pandas
+numpy
