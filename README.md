@@ -20,7 +20,7 @@ The system extracts text, identifies key insurance terms, and generates a struct
 | **Use Case Title** | Policy Summary Assistant |
 | **Model Type** | AI-powered Insurance Policy Summarizer |
 | **Category** | Gen AI + NLP + InsurTech |
-| **Students** | Dhanashree Giriya (PRN: 22070521147), Ayushi Nagpure (PRN: 22070521137) |
+
 
 ---
 
