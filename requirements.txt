@@ -5,4 +5,7 @@ scikit-learn
 python-dotenv
 pandas
 numpy
-
+langchain
+langchain-google-genai
+google-generativeai
+pydantic
