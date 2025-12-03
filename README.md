@@ -9,8 +9,8 @@ The system extracts text, identifies key insurance terms, and generates a struct
 ---
 
 ## 📌 Workflow Diagram  
-<img src="<img width="370" height="434" alt="Screenshot 2025-12-03 160357" src="https://github.com/user-attachments/assets/5bab431d-bdeb-4ec7-988f-8df186e757b6" />
-" width="550">
+<img width="370" height="434" alt="Screenshot 2025-12-03 160357" src="https://github.com/user-attachments/assets/5bab431d-bdeb-4ec7-988f-8df186e757b6" />
+
 
 ---
 
