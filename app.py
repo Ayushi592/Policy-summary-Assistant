@@ -151,7 +151,7 @@ hr { border:1px solid rgba(255,255,255,0.1); }
 </style>""", unsafe_allow_html=True)
 
 # --- 🧾 App Title ---
-st.markdown("<div class='header'>🚀 Insurance Policy Summarizer Pro</div>", unsafe_allow_html=True)
+st.markdown("<div class='header'> PolicyPro </div>", unsafe_allow_html=True)
 st.markdown("<div class='sub'>⚡ 3-6x Faster with Gemini 2.5 Flash-Lite + Cached Model</div>", unsafe_allow_html=True)
 st.markdown("<div class='speed-badge'>💨 Optimized for Speed</div>", unsafe_allow_html=True)
 
@@ -230,5 +230,6 @@ if analyze:
 # --- Footer ---
 st.markdown("<hr>", unsafe_allow_html=True)
 st.markdown("<div class='small'>✨ Gemini 2.5 Flash-Lite + spaCy + TF-IDF · ⚡ Cached & Optimized · 2025</div>", unsafe_allow_html=True)
+
 
 
