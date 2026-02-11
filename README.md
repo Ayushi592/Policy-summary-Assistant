@@ -5,6 +5,9 @@
 Policy Summary Assistant is a high-performance insurance document intelligence system that converts **unstructured PDF/TXT policy documents into accurate, policy-specific summaries within seconds**.  
 
 The system extracts text, identifies key insurance terms, and generates a structured 5-section policy summary using **Google Gemini 2.5 Flash-Lite**, optimized with caching and batching for **3–6× faster performance**.
+<img width="1508" height="673" alt="image" src="https://github.com/user-attachments/assets/ed130642-4cb0-45a3-bd58-d1c11f92fa39" />
+<img width="1390" height="668" alt="image" src="https://github.com/user-attachments/assets/93ac0d45-fdab-4f90-aefd-a3cfb4f8caf6" />
+
 
 ---
 
