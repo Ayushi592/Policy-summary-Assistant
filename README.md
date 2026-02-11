@@ -79,6 +79,13 @@ The system extracts text, identifies key insurance terms, and generates a struct
 
 ---
 
+## 🎥 Demo Video
+
+You can view/download the demo here:
+
+[Click here to watch the demo] https://drive.google.com/file/d/1VcEvVtRe-uQMPCnHWmOjD1i7Scyg8ewi/view?usp=drive_link
+
+---
 ## 📦 Installation
 
 ```bash
